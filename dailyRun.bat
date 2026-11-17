@@ -1,12 +1,12 @@
 @echo off
 :: Navigate to your script directory
-cd /d "C:\Users\ND\Downloads\Badminton"
+cd /d "C:\Users\arjun\Downloads"
 
 :: Configuration Environment Variables
 set "ASPIRE_EMAIL=p.anooppaul004@gmail.com"
 set "ASPIRE_PASS=Norah@143&143"
 :: set as false while testing
-set "HEADLESS=true"
+set "HEADLESS=false"
 set "DAYS_IN_ADVANCE=10"
 set "MAX_START_HOUR=21"
 set "SLOT_OFFSET_MINUTES=59"
