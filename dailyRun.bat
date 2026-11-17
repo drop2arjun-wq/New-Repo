@@ -3,8 +3,8 @@
 cd /d "C:\Users\ND\Downloads\Badminton"
 
 :: Configuration Environment Variables
-set "ASPIRE_EMAIL=email"
-set "ASPIRE_PASS=your passeord"
+set "ASPIRE_EMAIL=p.anooppaul004@gmail.com"
+set "ASPIRE_PASS=Norah@143&143"
 :: set as false while testing
 set "HEADLESS=true"
 set "DAYS_IN_ADVANCE=10"
