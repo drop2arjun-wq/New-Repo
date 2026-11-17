@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run chr(34) & "C:\Users\ND\Downloads\Badminton\dailyRun.bat.bat" & chr(34), 0, False
